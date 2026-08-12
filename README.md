@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm sms auth hub</h1>
+<h1 align="center">sms auth hub</h1>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=alialsaidi012345-code">
