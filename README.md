@@ -14,12 +14,27 @@
 
 
 ## 📊 GitHub Stats & Trophies
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
+<p align="center">
+  <a href="https://github.com/alialsaidi012345-code">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alialsaidi012345-code&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="alialsaidi012345-code's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=alialsaidi012345-code&theme=radical&hide_border=true&cache_seconds=86400" alt="alialsaidi012345-code's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=alialsaidi012345-code&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="sms auth hub's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=alialsaidi012345-code&theme=radical&radius=10" alt="alialsaidi012345-code's Activity Graph" />
+</p>
 
 
 ## 🛠️ Languages & Tools
+<p align="center">
+  <a href="https://github.com/alialsaidi012345-code">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alialsaidi012345-code&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
 ![Top language](https://stats.pphat.top/languages?username=alialsaidi012345-code)
 <br/>
 
